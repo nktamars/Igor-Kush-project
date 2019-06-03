@@ -1,54 +1,87 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-		<!--	created with www.mysitemapgenerator.com	-->
-		<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
 <url>
-	<loc>http://igorkushnarov.com/</loc>
-	<lastmod>2019-04-26T19:53:11+01:00</lastmod>
-	<priority>1.0</priority>
+  <loc>https://www.svholding.pro/</loc>
+  <lastmod>2019-06-03T11:15:43+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-	<loc>http://igorkushnarov.com/ua/home</loc>
-	<lastmod>2019-04-26T19:53:12+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://www.svholding.pro/agency.html</loc>
+  <lastmod>2019-06-03T11:15:43+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>http://igorkushnarov.com/about</loc>
-	<lastmod>2019-04-26T19:53:14+01:00</lastmod>
-	<priority>1.0</priority>
+  <loc>https://www.svholding.pro/en/home.html</loc>
+  <lastmod>2019-06-03T11:15:43+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>http://igorkushnarov.com/activities-and-publications</loc>
-	<lastmod>2019-04-26T19:53:16+01:00</lastmod>
-	<priority>1.0</priority>
+  <loc>https://www.svholding.pro/news.html</loc>
+  <lastmod>2019-06-03T11:15:43+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>http://igorkushnarov.com/contact</loc>
-	<lastmod>2019-04-26T19:53:15+01:00</lastmod>
-	<priority>1.0</priority>
+  <loc>https://www.svholding.pro/contact.html</loc>
+  <lastmod>2019-06-03T11:15:43+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>http://igorkushnarov.com/ua/about</loc>
-	<lastmod>2019-04-26T19:53:18+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://www.svholding.pro/obama-economy-rating.html</loc>
+  <lastmod>2019-06-03T11:15:43+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>http://igorkushnarov.com/ua/activities-and-publications</loc>
-	<lastmod>2019-04-26T19:53:17+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://www.svholding.pro/george-soros-collapse-of-trump.html</loc>
+  <lastmod>2019-06-03T11:15:43+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>http://igorkushnarov.com/ua/contact</loc>
-	<lastmod>2019-04-26T19:53:17+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://www.svholding.pro/investments-foreign-real-estate.html</loc>
+  <lastmod>2019-06-03T11:15:43+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>http://igorkushnarov.com/assets/images/political-corruption.pdf</loc>
-	<lastmod>2019-04-26T19:53:18+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.svholding.pro/en/agency.html</loc>
+  <lastmod>2019-06-03T11:15:43+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>http://igorkushnarov.com/assets/images/political-corruption-ua.pdf</loc>
-	<lastmod>2019-04-26T19:53:19+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.svholding.pro/index.html</loc>
+  <lastmod>2019-06-03T11:15:43+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
+<url>
+  <loc>https://www.svholding.pro/en/news.html</loc>
+  <lastmod>2019-06-03T11:15:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.svholding.pro/en/contact.html</loc>
+  <lastmod>2019-06-03T11:15:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.svholding.pro/en/obama-economy-rating.html</loc>
+  <lastmod>2019-06-03T11:15:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.svholding.pro/en/george-soros-collapse-of-trump.html</loc>
+  <lastmod>2019-06-03T11:15:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.svholding.pro/en/investments-foreign-real-estate.html</loc>
+  <lastmod>2019-06-03T11:15:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
 </urlset>
